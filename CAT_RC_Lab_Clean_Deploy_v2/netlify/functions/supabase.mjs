@@ -1,6 +1,6 @@
 import https from 'node:https';
 
-const SUPABASE_HOST = 'ekmrqelctkejtsryuvv.supabase.co';
+const SUPABASE_HOST = 'ekmrqelctkejttsryuvv.supabase.co';
 const DNS_URL = 'https://cloudflare-dns.com/dns-query';
 
 async function resolveSupabaseIPv4() {
